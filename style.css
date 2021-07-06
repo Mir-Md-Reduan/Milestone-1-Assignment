@@ -2,13 +2,11 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700px;
 }
-.Header-Banner{
-    width: 100%;    
-}
 ol li{
     list-style-type: none;
-    display: inline;
     margin-left: 10%;
+    display: inline-block;
+    margin-top: 50px;
 }
 h1{
     font-size: 60px;
@@ -78,6 +76,16 @@ a{
 }
 .racipies-names p,h4{
     padding-left: 10px;
+}
+.icon{
+    width: 50%;
+    margin-left: 25%;
+    box-shadow: 5px 5px 50px gray;
+    border-radius: 10px;
+
+}
+.Follow-Us h2{
+    text-align: center;
 }
 footer{
     text-align: center;
