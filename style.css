@@ -32,7 +32,7 @@ a{
     }
 .flexible-container{
     display: flex;
-    padding: 10%;
+    padding: 5%;
 }
 .Half-width{
     width: 50%;
@@ -55,18 +55,15 @@ a{
     font-size: 40px;
 }
 .racipies-names{
-    width: 337px;
-    height: 528px;
-    margin: 15px;
+    width: 30%;
+    margin-left: 3%;
     border-radius: 30px;
-    box-shadow: 5px 5px 50px gray;
+    box-shadow: 5px 5px 40px gray;
     padding: 5px;
 }
 .racipies-names-image{
-    width: 337px;
-    height: 257px;
+    width: 100%;
     border-radius: 30px;
-    
 }
 .racipies-names p{
     font-size: 16px;
@@ -78,4 +75,5 @@ footer{
     text-align: center;
     background-color: gray;
     padding: 20px 250px 50px;
+    width: 100%;
 }
