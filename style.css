@@ -2,6 +2,14 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700px;
 }
+.Header-Banner{
+    width: 100%;    
+}
+ol li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 10%;
+}
 h1{
     font-size: 60px;
 }
@@ -74,6 +82,8 @@ a{
 footer{
     text-align: center;
     background-color: gray;
-    padding: 20px 250px 50px;
-    width: 100%;
+    width: 90%;
+    margin: 6%;
+    padding:3% 0 3% 0 ;
+
 }
