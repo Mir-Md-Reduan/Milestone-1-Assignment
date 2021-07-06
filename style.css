@@ -1,17 +1,18 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
 }
 h1{
-    font-weight: 700;
-    font-size: 65px;
+    font-size: 60px;
 }
 h2{
-    font-weight: 700;
     font-size: 50px;
 }
 h3{
-    font-weight: 700;
-    font-size: ;
+    font-size: 40px;
+}
+h4{
+    font-size: 30px;
 }
 span{
     color: orange;
@@ -41,15 +42,40 @@ a{
     width: 90%;
     padding-left: 90px;
 }
-.Image-aboutMe{
-    width: 70%;
-    padding-left: 90px;
+.Image-About-my-self{
+    width: 66%;
+    padding-left: 30px;
 }
-.About-me{
+.About-my-self{
     background-image: url(food-network-main/images/shapes/7.png);
 }
 .recipies{
     text-align: center;
     padding: 50px 250px;
     font-size: 40px;
+}
+.racipies-names{
+    width: 337px;
+    height: 528px;
+    margin: 15px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 50px gray;
+    padding: 5px;
+}
+.racipies-names-image{
+    width: 337px;
+    height: 257px;
+    border-radius: 30px;
+    
+}
+.racipies-names p{
+    font-size: 16px;
+}
+.racipies-names p,h4{
+    padding-left: 10px;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    padding: 20px 250px 50px;
 }
