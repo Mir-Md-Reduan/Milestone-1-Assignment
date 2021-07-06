@@ -1,0 +1,55 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 65px;
+}
+h2{
+    font-weight: 700;
+    font-size: 50px;
+}
+h3{
+    font-weight: 700;
+    font-size: ;
+}
+span{
+    color: orange;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration:  none;
+    background-image: linear-gradient(rgb(255, 168, 5),rgb(199, 24, 24));
+    border-radius: 25px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    }
+.flexible-container{
+    display: flex;
+    padding: 10%;
+}
+.Half-width{
+    width: 50%;
+    
+}
+.Image-top{
+    width: 90%;
+    padding-left: 90px;
+}
+.Image-aboutMe{
+    width: 70%;
+    padding-left: 90px;
+}
+.About-me{
+    background-image: url(food-network-main/images/shapes/7.png);
+}
+.recipies{
+    text-align: center;
+    padding: 50px 250px;
+    font-size: 40px;
+}
